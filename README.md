@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Satendra gangwar</h1>
+**Hi 👋, I'm Satendra gangwar</h1>**
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satendragangwar&label=Profile%20views&color=0e75b6&style=flat" alt="satendragangwar" /> </p>
